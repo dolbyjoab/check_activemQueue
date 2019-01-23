@@ -1,2 +1,2 @@
 # check_activemQueue
-to monitor teh Queues (given queue)
+to monitor the Queues (given queue)
